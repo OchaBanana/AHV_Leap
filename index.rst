@@ -118,20 +118,20 @@ Throughout the Workshop there are multiple instances where you will need to subs
 Each cluster is configured with 2 VLANs which can be used for VMs:
 
 .. list-table::
-  :widths: 25 25 10 40
-  :header-rows: 1
-  * - Network Name
-    - Address
-    - VLAN
-    - DHCP Scope
-  * - Primary
-    - 10.55.\ *XYZ*\ .1/25
-    - 0
-    - 10.55.\ *XYZ*\ .50-10.55.\ *XYZ*\ .124
-  * - Secondary
-    - 10.55.\ *XYZ*\ .129/25
-    - *XYZ1*
-    - 10.55.\ *XYZ*\ .132-10.55.\ *XYZ*\ .253
+   :widths: 25 25 10 40
+   :header-rows: 1
+     * - Network Name
+       - Address
+       - VLAN
+       - DHCP Scope
+     * - Primary
+       - 10.55.\ *XYZ*\ .1/25
+       - 0
+       - 10.55.\ *XYZ*\ .50-10.55.\ *XYZ*\ .124
+     * - Secondary
+       - 10.55.\ *XYZ*\ .129/25
+       - *XYZ1*
+       - 10.55.\ *XYZ*\ .132-10.55.\ *XYZ*\ .253
 
 .. list-table::
    :widths: 25 35 40
