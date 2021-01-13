@@ -81,21 +81,21 @@ Cluster Credentials
    :widths: 20 40 40
    :header-rows: 1
 
-  *  - 
-     - Primary-Stie
-     - Recovery-Site
-  *  - Cluster Name
-     - Primary-Cluster
-     - Recovery-Cluster
-  *  - PC IP
-     - 10.55.21.39
-     - 10.55.39.39
-  *  - PC Username
-     - admin
-     - admin
-  *  - PC Password
-     - nx2Tech650!
-     - nx2Tech656! 
+   *  - 
+      - Primary-Stie
+      - Recovery-Site
+   *  - Cluster Name
+      - Primary-Cluster
+      - Recovery-Cluster
+   *  - PC IP
+      - 10.55.21.39
+      - 10.55.39.39
+   *  - PC Username
+      - admin
+      - admin
+   *  - PC Password
+      - nx2Tech650!
+      - nx2Tech656! 
 
 .. note::
 
