@@ -77,25 +77,25 @@ For PHX:
 Cluster Credentials
 ===================
 
-  .. list-table::
-     :widths: 20 40 40
-     :header-rows: 1
+.. list-table::
+   :widths: 20 40 40
+   :header-rows: 1
 
-    *  - 
-       - Primary-Stie
-       - Recovery-Site
-    *  - Cluster Name
-       - Primary-Cluster
-       - Recovery-Cluster
-    *  - PC IP
-       - 10.55.21.39
-       - 10.55.39.39
-    *  - PC Username
-       - admin
-       - admin
-    *  - PC Password
-       - nx2Tech650!
-       - nx2Tech656! 
+  *  - 
+     - Primary-Stie
+     - Recovery-Site
+  *  - Cluster Name
+     - Primary-Cluster
+     - Recovery-Cluster
+  *  - PC IP
+     - 10.55.21.39
+     - 10.55.39.39
+  *  - PC Username
+     - admin
+     - admin
+  *  - PC Password
+     - nx2Tech650!
+     - nx2Tech656! 
 
 .. note::
 
@@ -161,7 +161,7 @@ Each cluster has a dedicated domain controller VM, **DC**, responsible for provi
 .. list-table::
    :widths: 25 35 40
    :header-rows: 1
-   
+
    * - Group
      - Username(s)
      - Password
