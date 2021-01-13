@@ -71,10 +71,10 @@ For PHX:
   - **Name** - X-Labs - PHX
   - **Server URL** - xlv-uswest1.nutanix.com
 
-6. Once setup, login with the supplied credentials `here <https://docs.google.com/spreadsheets/d/1JONVcsPlCPmL-b2pKqzxPkWGUO0gs-42UbBkr1pipiA/edit?usp=sharing>`_
+6. Once setup, login with the supplied credentials **`here <https://docs.google.com/spreadsheets/d/1JONVcsPlCPmL-b2pKqzxPkWGUO0gs-42UbBkr1pipiA/edit?usp=sharing>`_**
 
 Cluster Credentials
-===================
+-------------------
 
 
 .. list-table::
