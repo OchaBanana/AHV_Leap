@@ -59,7 +59,8 @@ Creating A Protection Policy
    - **Recovery Location** - Remote AZ
    - **Target Cluster** - Recovery-Cluster
    - Under **Policy Type**, select **Synchronous**
-   - Under **Failure Handling**, select **Manual**
+   - Under **Failure Handling**, select **Automatic**
+   - Timeout After - **10** Seconds
    
    .. figure:: images/7.png
 
